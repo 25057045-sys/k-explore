@@ -36,8 +36,6 @@ k-explore/
 │   ├── validation.js
 │   ├── storage.js
 │   └── theme.js
-└── assets/
-    └── screenshots/
 ```
 
 ## How It Works
