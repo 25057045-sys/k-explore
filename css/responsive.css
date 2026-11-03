@@ -1,0 +1,26 @@
+/* Tablet */
+@media (max-width: 768px) {
+  .navbar { padding: 1rem; }
+  .hero { padding: 3.5rem 1rem; }
+  .container { padding: 1.5rem 1rem; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
+  .detail-img { max-height: 260px; }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .logo { font-size: 1.15rem; }
+  .navbar nav { display: flex; align-items: center; gap: .5rem; font-size: .9rem; }
+  .theme-btn { margin-left: 0; width: 36px; height: 36px; }
+  .hero { padding: 2.5rem 1rem; }
+  .grid { grid-template-columns: 1fr; }
+  .filters { gap: .4rem; }
+  .filter-btn { padding: .35rem .8rem; font-size: .9rem; }
+  .form-section { padding: 1rem; }
+  .countdown { font-size: .9rem; }
+}
+
+/* Large screens */
+@media (min-width: 1200px) {
+  .container { max-width: 1200px; }
+}
