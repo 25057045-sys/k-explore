@@ -3,6 +3,7 @@
 A responsive event management website where users can explore upcoming events, search and filter them, view details, and register.
 
 🔗 **Live Demo:** https://25057045-sys.github.io/k-explore/
+
 📁 **Repository:** https://github.com/25057045-sys/k-explore
 
 ## Features
