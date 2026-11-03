@@ -38,6 +38,7 @@ k-explore/
 
 ## Screenshots
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ## Author
 Priyanshu Das
