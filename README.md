@@ -19,12 +19,26 @@ A responsive event management website where users can explore upcoming events, s
 HTML5, CSS3, JavaScript (vanilla), Git & GitHub
 
 ## Project Structure
+
+```
 k-explore/
 ├── index.html
 ├── event.html
-├── css/ (style.css, theme.css, responsive.css)
-├── js/ (data.js, main.js, event.js, validation.js, storage.js, theme.js)
+├── README.md
+├── css/
+│   ├── style.css
+│   ├── theme.css
+│   └── responsive.css
+├── js/
+│   ├── data.js
+│   ├── main.js
+│   ├── event.js
+│   ├── validation.js
+│   ├── storage.js
+│   └── theme.js
 └── assets/
+    └── screenshots/
+```
 
 ## How It Works
 - `data.js` holds the events array; `main.js` renders cards and handles search and filters.
