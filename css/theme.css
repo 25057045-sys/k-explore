@@ -1,0 +1,25 @@
+:root {
+  --bg: #f7f8fc;
+  --card: #ffffff;
+  --text: #1f2430;
+  --primary: #6c5ce7;
+  --border: #cccccc;
+  --accent-bg: #ece9ff;
+  --success-bg: #e8f9ef;
+  --shadow: rgba(0, 0, 0, .08);
+}
+
+[data-theme="dark"] {
+  --bg: #12141c;
+  --card: #1c1f2b;
+  --text: #e8eaf2;
+  --primary: #8b7dff;
+  --border: #3a3f52;
+  --accent-bg: #2a2650;
+  --success-bg: #12301f;
+  --shadow: rgba(0, 0, 0, .5);
+}
+
+body, .navbar, .card, .form-section, input, select {
+  transition: background-color .3s, color .3s, border-color .3s;
+}
