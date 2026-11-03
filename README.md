@@ -37,7 +37,7 @@ k-explore/
 3. Run with the Live Server extension (or open `index.html`)
 
 ## Screenshots
-<add 2–3 screenshots: home page, event page, dark mode, mobile view>
+![alt text](image.png)
 
 ## Author
 Priyanshu Das
